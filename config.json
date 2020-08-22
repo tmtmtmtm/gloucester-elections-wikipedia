@@ -1,0 +1,20 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Gloucester_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q1080484",
+    "start": "1885",
+    "end": "9999"
+  }, {
+    "id": "Q56189411",
+    "start": "1801",
+    "end": "1885"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
