@@ -59,7 +59,7 @@ Q285249,Ann Clwyd,Q9630,Labour Party (UK),19136,Q918508,General election October
 Q1533969,Sally Oppenheim,Q9626,Conservative Party (UK),23052,Q119524,General election February 1974,1
 ,A. E. Pegler,Q9630,Labour Party (UK),18215,Q119524,General election February 1974,2
 ,D. Halford,Q622441,Liberal Party (UK),10155,Q119524,General election February 1974,3
-,B. Gordon-Storkey,,Powell Conservative,366,Q119524,General election February 1974,4
+,B. Gordon-Storkey,Q98555022,Powell Conservative,366,Q119524,General election February 1974,4
 Q1533969,Sally Oppenheim,Q9626,Conservative Party (UK),21838,Q918442,General election 1970,1
 Q6229339,Jack Diamond,Q9630,Labour Party (UK),20777,Q918442,General election 1970,2
 ,James P. Heppell,Q622441,Liberal Party (UK),3935,Q918442,General election 1970,3
@@ -69,7 +69,7 @@ Q6031701,Inga-Stina Robson,Q622441,Liberal Party (UK),6540,Q918430,General elect
 Q6229339,Jack Diamond,Q9630,Labour Party (UK),19631,Q220208,General election 1964,1
 Q6239169,John Stokes,Q9626,Conservative Party (UK),15514,Q220208,General election 1964,2
 Q6031701,Inga-Stina Robson,Q622441,Liberal Party (UK),7581,Q220208,General election 1964,3
-,Russell Eckley,,Independent,380,Q220208,General election 1964,4
+,Russell Eckley,Q327591,Independent politician,380,Q220208,General election 1964,4
 Q6229339,John Diamond,Q9630,Labour Party (UK),19450,Q918420,General election 1959,1
 ,H. D. Keith Scott,Q9626,Conservative Party (UK),16679,Q918420,General election 1959,2
 ,Patrick Herbert Lort-Phillips,Q622441,Liberal Party (UK),7336,Q918420,General election 1959,3
@@ -139,17 +139,17 @@ Q16062642,William Nassau Lees,Q9626,Conservative Party (UK),1520,Q2074525,Genera
 Q8016852,William Philip Price,Q622441,Liberal Party (UK),854,Q2074533,General election 1865,1
 Q5079451,Charles James Monk,Q622441,Liberal Party (UK),774,Q2074533,General election 1865,2
 ,Adam Steinmetz Kennard,Q9626,Conservative Party (UK),726,Q2074533,General election 1865,3
-Q5075565,Charles Berkeley,Q622441,Liberal Party (UK),761,,"By-election, 26 February 1862",1
-Q6242231,John Joseph Powell,Q622441,Liberal Party (UK),716,,"By-election, 26 February 1862",2
-Q7328485,Richard Potter,Q9626,Conservative Party (UK),687,,"By-election, 26 February 1862",3
+Q5075565,Charles Berkeley,Q622441,Liberal Party (UK),761,Q98556161,"By-election, 26 February 1862",1
+Q6242231,John Joseph Powell,Q622441,Liberal Party (UK),716,Q98556161,"By-election, 26 February 1862",2
+Q7328485,Richard Potter,Q9626,Conservative Party (UK),687,Q98556161,"By-election, 26 February 1862",3
 Q8016852,William Philip Price,Q622441,Liberal Party (UK),807,Q4345445,General election 1859,1
 Q5079451,Charles James Monk,Q622441,Liberal Party (UK),779,Q4345445,General election 1859,2
 Q13529861,Robert Carden,Q9626,Conservative Party (UK),595,Q4345445,General election 1859,3
 Q13529861,Robert Carden,Q9626,Conservative Party (UK),742,Q4345446,General election 1857,1
 Q8016852,William Philip Price,Q1687668,Radicals (UK),717,Q4345446,General election 1857,2
 Q11771724,Maurice Berkeley,Q108700,Whigs (British political party),710,Q4345446,General election 1857,3
-Q11771724,Maurice Berkeley,Q108700,Whigs (British political party),761,,"By-election, 4 January 1853",1
-Q15990054,Henry Thomas Hope,Q9626,Conservative Party (UK),670,,"By-election, 4 January 1853",2
+Q11771724,Maurice Berkeley,Q108700,Whigs (British political party),761,Q98556162,"By-election, 4 January 1853",1
+Q15990054,Henry Thomas Hope,Q9626,Conservative Party (UK),670,Q98556162,"By-election, 4 January 1853",2
 Q8016852,William Philip Price,Q1687668,Radicals (UK),831,Q3943728,General election 1852,1
 Q11771724,Maurice Berkeley,Q108700,Whigs (British political party),786,Q3943728,General election 1852,2
 Q15990054,Henry Thomas Hope,Q9626,Conservative Party (UK),760,Q3943728,General election 1852,3
@@ -157,8 +157,8 @@ Q16853324,John Phillpotts,Q108700,Whigs (British political party),753,Q2073185,G
 Q11771724,Maurice Berkeley,Q108700,Whigs (British political party),732,Q2073185,General election 1841,2
 Q15990054,Henry Thomas Hope,Q9626,Conservative Party (UK),646,Q2073185,General election 1841,3
 ,John Henry Loftus,Q9626,Conservative Party (UK),510,Q2073185,General election 1841,4
-Q15990054,Henry Thomas Hope,Q9626,Conservative Party (UK),685,,"By-election, 21 May 1838",1
-Q16741857,Edward Webb,Q108700,Whigs (British political party),579,,"By-election, 21 May 1838",2
+Q15990054,Henry Thomas Hope,Q9626,Conservative Party (UK),685,Q98556163,"By-election, 21 May 1838",1
+Q16741857,Edward Webb,Q108700,Whigs (British political party),579,Q98556163,"By-election, 21 May 1838",2
 Q15990054,Henry Thomas Hope,Q9626,Conservative Party (UK),727,Q2037966,General election 1837,1
 Q16853324,John Phillpotts,Q108700,Whigs (British political party),710,Q2037966,General election 1837,2
 Q11771724,Maurice Berkeley,Q108700,Whigs (British political party),630,Q2037966,General election 1837,3
@@ -166,8 +166,8 @@ Q11771724,Maurice Berkeley,Q108700,Whigs (British political party),708,Q1834355,
 Q15990054,Henry Thomas Hope,Q9626,Conservative Party (UK),621,Q1834355,General election 1835,2
 Q16853324,John Phillpotts,Q108700,Whigs (British political party),598,Q1834355,General election 1835,3
 ,William Cother,Q9626,Conservative Party (UK),402,Q1834355,General election 1835,4
-Q15990054,Henry Thomas Hope,Q499956,Tories (British political party),566,,"By-election, 9 April 1833",1
-Q11771724,Maurice Berkeley,Q108700,Whigs (British political party),457,,"By-election, 9 April 1833",2
+Q15990054,Henry Thomas Hope,Q499956,Tories (British political party),566,Q98556165,"By-election, 9 April 1833",1
+Q11771724,Maurice Berkeley,Q108700,Whigs (British political party),457,Q98556165,"By-election, 9 April 1833",2
 Q11771724,Maurice Berkeley,Q108700,Whigs (British political party),684,Q1582019,General election 1832,1
 Q16853324,John Phillpotts,Q108700,Whigs (British political party),658,Q1582019,General election 1832,2
 Q15990054,Henry Thomas Hope,Q499956,Tories (British political party),549,Q1582019,General election 1832,3
