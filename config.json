@@ -13,8 +13,13 @@
   "new_person_description": "UK election candidate",
   "mapping": {
     "election": {
+      "By-election, 26 February 1862": "Q98556161",
+      "By-election, 4 January 1853": "Q98556162",
+      "By-election, 21 May 1838": "Q98556163",
+      "By-election, 9 April 1833": "Q98556165"
     },
     "party" : {
+      "Powell Conservative": "Q98555022"
     }
   }
 }
